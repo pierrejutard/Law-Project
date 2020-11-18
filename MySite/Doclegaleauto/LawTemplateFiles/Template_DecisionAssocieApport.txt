@@ -1,0 +1,97 @@
+
+[
+			*NomSocieteSource*
+		FormeJuridiqueSocieteSource
+		Au capital de MontantCapitalSocieteSource euros
+	Siège social : AdresseSocieteSource
+			RCS Paris 
+]
+
+			(la « *Société* »)
+			___________________
+
+
+		*ACTE CONSTATANT LES DECISIONS DES ASSOCIES DU  2020*
+
+
+*LES SOUSSIGNE(S) :*
+ 
+[
+    - *SexeAssocie PrenomAssocie NomAssocie*, né(e) le DateNaissance, de nationalité NationaliteAssocie, demeurant AdresseAssocie, 
+]
+
+Détenant ensemble la totalité des actions représentant le capital social et les droits de vote de la Société, 
+
+Ont pris les décisions qui suivent conformément à l’Article des statuts de la Société :
+
+[
+*I_Decision DECISION* 
+
+Les Associés,
+
+Après avoir entendu la lecture :
+
+    • d'un Contrat d'apport en date du DateContratApportNature aux termes duquel SexeAssocie PrenomAssocie NomAssocie, a fait apport à la Société de :
+
+    • NombreActionSocieteSourceApporteLettre (NombreActionSocieteSourceApporteChiffre) actions de la société NomSocieteSource d’une valeur de ValeurActionSocieteSource euros chacune, soit une valeur globale de MontantGlobalApporteLettre (MontantGlobalApporteChiffre €) arrondie à MontantGlobalApporteArrondi pour les besoins du présent apport, et
+
+
+- du rapport de SexeCommissaireComptes PrenomCommissaireComptes NomCommissaireComptes, Commissaire aux apports désigné l'unanimité des associés le  2020,
+
+Approuvent cet apport ainsi que son évaluation (SexeAssocie PrenomAssocie NomAssocie, apporteur, ne prenant pas part à cette décision conformément à l’Article L 225-10 du Code de commerce).
+]
+
+¤*TROISIEME DECISION*¤ 
+
+Les Associés,
+
+Après avoir entendu la lecture des rapports du Président et du Commissaire aux apports,
+
+Décident, à titre de rémunération des apports approuvés aux termes des précédentes décisions ci-avant, d'augmenter le capital social de MontantCapitalCaractApport euros pour le porter de MontantCapitalSocieteBeneficiaire euros MontantCapitalFinalSocieteBeneficiaireCaractApport euros au moyen de l’émission au pair de NbreActionApportCaractApport actions nouvelles de ValeurActionSocieteBeneficiaire euros de valeur nominale chacune, entièrement libérées, et attribuées aux apporteurs en rémunération de leurs apports respectifs, soit :
+
+[
+- 	à SexeAssocie PrenomAssocie NomAssocie :	NombreActionApportAssocie actions
+]
+
+
+Les actions nouvelles sont soumises à toutes les stipulations statutaires, sont assimilées aux actions existantes et jouissent des mêmes droits à compter de leur émission et, pour le droit aux dividendes, à compter du premier jour de l’exercice en cours. 
+
+QUATRIEME DECISION 
+
+Les Associés,
+
+Après avoir entendu la lecture des rapports du Président et du Commissaire aux apports,
+
+Comme conséquence des décisions précédentes, constatent que l'augmentation du capital qui en résulte est définitivement réalisée et décident de modifier comme suit les articles 6 « Apports » et 7 « Capital social » des statuts :
+
+
+« ¤*ARTICLE 6 - APPORTS*¤
+
+1. Les associés soussignés ont fait les apports en numéraire suivant à la société à l’occasion de sa constitution :
+
+[
+    • SexeAssocie PrenomAssocie NomAssocie : 	MontantApportAssocie euros
+]	
+
+Total :	MontantTotalApportCaractApport euros
+
+Les apports en numéraire effectués par les associés fondateurs ont été libérés intégralement à la constitution de la Société. 
+
+2.	Aux termes de décisions des associés en date du [--] 2020, le capital social a été augmenté de MontantTotalCaractApport euros au moyen de l'apport à la Société :
+
+            ▪ par SexeAssocie PrenomAssocie NomAssocie, de NombreActionApportAssocie actions de la société NomSocieteBeneficiaire d’une valeur de ValeurActionSocieteBeneficiaire euros chacune, soit une valeur globale de MontantApportAssocie euros
+
+¤*ARTICLE 7 - CAPITAL SOCIAL*¤
+
+[
+Le capital social est fixé à la somme de MontantfinalCapitalSocieteBeneficiaire euros.
+
+Il est divisé en NombreActionSocieteBeneficiaire actions nominatives, d'une seule catégorie, de ValeurActionSocieteBeneficiaire euros de nominal chacune, dont NombreActionLibereSocieteBeneficiaire ont été libérées intégralement à la constitution de la société, le solde de ces actions ayant été intégralement libérées lors de la réalisation des apports en nature visés à l’Article 6 ci-avant. »
+
+]
+
+¤*CINQUIEME DECISION *¤
+
+Les Associés,
+
+Donnent tous pouvoirs au porteur d’un original ou d’une copie certifiée conforme des présentes à l’effet de remplir toutes formalités légales de publicité.

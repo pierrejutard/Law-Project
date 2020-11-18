@@ -1,0 +1,85 @@
+			*CONTRAT D'APPORT EN NATURE*
+
+
+*ENTRE LES SOUSSIGNES :*
+
+[
+    - *SexeAssocie PrenomAssocie NomAssocie*, né le DateNaissanceAssocie, à VilleNaissanceAssocie, de nationalité NationaliteAssocie, demeurant au AdresseAssocie,
+]
+
+
+Ci-après dénommés les « *Apporteurs* »,
+
+*D'UNE PART*,
+
+ET :
+
+[
+    - *NomSocieteBeneficiaire*, FormeJuridiqueSocieteBeneficiaire, au capital de MontantCapitalSocieteBeneficiaire euros, dont le siège social est situé au AdresseSocieteBeneficiaire en cours d’immatriculation au registre du commerce et des sociétés de Paris, représentée par SexePresidentSocieteBeneficiaire PrenomPresidentSocieteBeneficiaire NomPresidentSocieteBeneficiaire, Président, 
+]
+
+Ci-après dénommée la « *Société Bénéficiaire* »,
+
+*D'AUTRE PART*,
+
+IL A ETE PREALABLEMENT EXPOSE CE QUI SUIT :
+
+[
+A.	Les Apporteurs sont associés de la société NomSocieteSource, FormeJuridiqueSocieteSource au capital de MontantCapitalSocieteSource euros, dont le siège social est situé AdresseSocieteSource, immatriculée sous le numéro unique d’identification NumRCSSocieteSource Paris (Ci-après dénommée la « *Société Source* »).
+
+B.	Le capital de la société NomSocieteSource est divisé en NombreActionSocieteSource actions ordinaires d’une valeur nominale de ValeurActionSocieteSource euros, intégralement libérées. La répartition des actions entre les Apporteurs est la suivante :
+]
+
+[
+    • SexeAssocie PrenomAssocie NomAssocie : ..................... NombreActionSocieteSourceAssocie actions
+]
+
+
+C.	Les Apporteurs entendent apporter à la Société une partie de leur participation dans la société NomSocieteSource à la Société Bénéficiaire. 
+
+D.	Le présent contrat détermine les termes et conditions de cet apport (le « Contrat »).
+
+IL A ENSUITE ETE ARRETE ET CONVENU CE QUI SUIT :
+
+
+¤*ARTICLE 1 : APPORT*¤
+
+Les Apporteurs apportent à la Société Bénéficiaire, sous les seules garanties légales (à l’exclusion de toute autre) et aux conditions stipulées ci-après, ce qui est accepté par la Société Bénéficiaire, les biens suivants :
+
+[
+    • en ce qui concerne SexeAssocie PrenomAssocie NomAssocie, NombreActionApporteAssocie actions de la société NomSocieteSource évaluées à ValeurActionSocieteSource euros chacune, soit une valeur globale de MontantGlobalApporteAssocie euros.
+]
+
+[
+
+*Soit un apport total de :	 MontantTotalApportCaractApport euros*
+
+
+¤*ARTICLE 2 : REMUNERATION DES APPORTS*¤
+
+En rémunération de l’apport désigné à l’article 1.1 ci-dessus et évalué à la somme globale de MontantTotalApportCaractApport euros il sera attribué aux Apporteurs (NbreActionAttribCaractApport) actions de la Société Bénéficiaire d'une valeur nominale de ValeurActionSocieteBeneficiaire euros chacune, toutes entièrement libérées. 
+]
+
+¤*ARTICLE 3 : VERIFICATION ET APPROBATION DE L'APPORT*¤
+
+L'apport qui précède ne sera définitif qu'après réalisation des conditions suivantes :
+
+    • établissement d'un rapport par un Commissaire aux apports comportant appréciation de la valeur dudit apport et des avantages particuliers éventuels ; et
+
+    • approbation de l'évaluation de l'apport et de l'octroi d'avantages particuliers éventuels et constatation de la réalisation de l'augmentation de capital par les associés de la Société Bénéficiaire.
+
+La réalisation de ces conditions devra intervenir au plus tard le [--] 2020, à défaut le présent contrat sera considéré comme non avenu, sans indemnité de part ni d'autre.
+
+
+¤*ARTICLE 4 : CONDITIONS SUSPENSIVES*¤
+
+[A déterminer].
+
+¤*ARTICLE 5 : AFFIRMATION DE SINCERITE*¤
+
+Les parties affirment, sous les peines édictées par la loi que le Contrat exprime l'intégralité de la valeur des éléments apportés.
+
+
+¤*ARTICLE 6 : FRAIS ET HONORAIRES*¤
+
+Tous les frais, droits et honoraires des présentes et de leurs suites sont à la charge de la Société Bénéficiaire, qui s'y oblige.

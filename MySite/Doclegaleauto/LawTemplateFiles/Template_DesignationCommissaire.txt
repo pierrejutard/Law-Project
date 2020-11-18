@@ -1,0 +1,53 @@
+[
+			*NomSocieteBeneficiaire*
+		FormeJuridiqueSocieteBeneficiaire
+		Au capital de MontantCapitalSocieteBeneficiaire euros
+		Siège social : AdresseSocieteBeneficiaire
+			RCS Paris [--]
+]
+
+			(la « *Société* »)
+			___________________
+
+
+		*ACTE CONSTATANT LES DECISIONS DES ASSOCIES DU [--] 2020*
+
+
+LES SOUSSIGNES : 
+
+[
+    • *SexeAssocie PrenomAssocie NomAssocie*, né le DateNaissanceAssocie, à VilleNaissanceAssocie, de nationalité NationaliteAssocie, demeurant AdresseAssocie,
+]
+
+Détenant ensemble la totalité des actions représentant le capital social et les droits de vote de la Société, 
+
+Ont pris les décisions qui suivent conformément à l’Article [--] des statuts de la Société :
+
+
+			¤*DECISION UNIQUE*¤
+
+Les Associés,
+
+Connaissance prise du rapport du Président, 
+
+Décident, conformément à l’article 225-147 du Code de commerce du Code de commerce, de nommer en qualité de commissaire aux apports : 
+
+[
+    (i) *SexeCommissaireComptes PrenomCommissaireComptes NomCommissaireComptes*, Expert-comptable et Commissaire aux comptes,
+]
+
+Avec pour mission :
+
+    (i) d'apprécier et évaluer l'apport à la Société :
+
+[
+-	par SexeAssocie PrenomAssocie NomAssocie, de NbreActionApporteAssocie actions de la société NomSocieteSource; et
+]
+
+    (ii) d'apprécier la valeur des avantages particuliers éventuellement octroyés ; et
+
+    (iii) d'établir un rapport contenant les mentions prévues par les dispositions réglementaires qui sera mis à la disposition des associés et déposé au Greffe du tribunal de commerce dans les délais fixés par l'article R123-107 du Code de commerce.
+
+[
+SexeCommissaireComptes PrenomCommissaireComptes NomCommissaireComptes a fait savoir par avance qu'elle accepte cette mission et qu'elle n'est frappée d'aucune mesure ou incompatibilité susceptible de lui interdire de l’accomplir. 
+]

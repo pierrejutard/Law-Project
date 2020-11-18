@@ -20,7 +20,7 @@ class Associe_Form(ModelForm):
         super(Associe_Form, self).__init__(*args, **kwargs)
         self.fields['Nom_Associe'].widget.attrs['placeholder'] = 'Dupont'
         #self.fields['Prenom_Associe'].widget.attrs['placeholder'] = 'Martin'
-       # self.fields['VilleNaissance_Associe'].widget.attrs['placeholder'] = 'Paris (75008)'
+        #self.fields['VilleNaissance_Associe'].widget.attrs['placeholder'] = 'Paris (75008)'
         
 class CommissaireComptes_Form(ModelForm):
     class Meta:

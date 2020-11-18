@@ -1,0 +1,47 @@
+[
+		*NomSocieteBeneficiaire*
+	FormeJuridiqueSocieteBeneficiaire
+		Au capital de MontantCapitalSocieteBeneficiaire euros
+	Siège social : AdresseSocieteBeneficiaire
+		En cours d’immatriculation  
+
+		(la « *Société* »)
+
+
+
+		*RAPPORT DU PRESIDENT*
+
+Les associés de la Société (les « *Associés* ») sont également associés fondateurs de la société NomSocieteSource,
+FormeJuridiqueSocieteSource immatriculée au registre du commerce et des sociétés de Paris sous le numéro NumRCSSocieteSource.
+Ils détiennent  NbreTotalActionAssocieSocieteSourceCaractApport des NombreActionSocieteSource actions ordinaires d’une valeur nominale de
+ValeurActionSocieteSource euros chacune, intégralement libérées, représentant le capital et les droits de vote de NomSocieteSource.
+Les Associés ont décidé d’apporter à la société NomSocieteBeneficiaire NbreActionApportCaractApport actions de NomSocieteSource sur la base d’une valeur globale de MontantApportCaractApport euros.
+Cet apport serait réalisé sous régime fiscal de l’apport cession, prévu à l’article 150-O-B-ter du Code Général des Impôts.
+A titre de rémunération des apports susvisés, le capital social de la société NomSocieteBeneficiaire serait augmenté de MontantApportCaractApport euros pour le porter de
+MontantCapitalSocieteBeneficiaire euros à MontantCapitalFinalSocieteBeneficiaireCaractApport euros au moyen de l’émission au pair de NbreActionApportCaractApport actions nouvelles
+de ValeurActionSocieteBeneficiaire euros de valeur nominale chacune, entièrement libérées, et attribuées aux apporteurs en rémunération de leurs apports respectifs, soit :
+]
+
+[
+- 	à SexeAssocie PrenomAssocie NomAssocie:	NombreActionApporteAssocie actions
+]
+
+Les actions nouvelles seraient soumises à toutes les stipulations statutaires, seraient assimilées aux actions existantes et jouiraient des mêmes droits à compter de leur émission et,
+pour le droit aux dividendes, à compter du premier jour de l’exercice en cours.
+
+Les statuts de la Société devront être modifiés afin de refléter cette augmentation de capital.
+
+Afin de nous permettre de procéder à cet apport, nous vous demanderons, dans un premier temps, conformément à l’article 225-147 du Code de commerce, de nommer en qualité de commissaire aux apports:
+
+[
+SexeCommissaireComptes PrenomCommissaireComptes NomCommissaireComptes, Expert-comptable et Commissaire aux comptes, membre de la Compagnie Régionale de Paris 18, Rue François de Troy - 94360 Bry-sur-Marne,
+
+Avec pour mission :
+
+    (i) d'apprécier et évaluer les apports susvisés ;
+    (ii) d'apprécier la valeur des avantages particuliers éventuellement octroyés ; et
+
+    (iii) d'établir un rapport contenant les mentions prévues par les dispositions réglementaires qui sera mis à la disposition des associés et déposé au Greffe du tribunal de commerce dans les délais fixés par l'article R123-107 du Code de commerce.
+
+SexeCommissaireComptes PrenomCommissaireComptes NomCommissaireComptes nous a fait savoir par avance qu'elle accepte cette mission et qu'elle n'est frappée d'aucune mesure ou incompatibilité susceptible de lui interdire de l’accomplir. 
+]

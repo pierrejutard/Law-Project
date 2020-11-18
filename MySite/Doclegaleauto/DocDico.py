@@ -2,8 +2,9 @@ def Get_dico_ApportNature_modele(File_name):
     PartDoc_dico = {}
     Part_Cpt = 0
     Oth_Part_Cpt = 0
-    InPart=False
-    with open("C:/Users/user/Desktop/Template_" + File_name + '.txt', encoding='utf-8') as TextFile:
+    InPart = False
+    Path = "C:/Users/user/Desktop/python/MySite/Doclegaleauto/LawTemplateFiles/Template_"
+    with open(Path + File_name + '.txt', encoding='utf-8') as TextFile:
         for line in TextFile:
             if '[\n' in line or InPart == True:
                 Part_Cpt = Part_Cpt + 1
