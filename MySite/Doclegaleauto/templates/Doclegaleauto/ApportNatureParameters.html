@@ -1,0 +1,39 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Apport Nature Paramètres</title>
+		<link rel="stylesheet" type="text/css" href= "{% static 'Doclegaleauto/style.css' %}" />
+  </head>
+  	<body>
+      <nav class= "navigation">
+      <div class="menu-nav-container" id="body">
+        <ul id="menu-nav" class="menu">
+          <li id="menu-item-1" class="menu-item">
+            <a href=""droit des sociétés>"Droit des sociétés"
+            </a>
+            <ul class="sub-menu">
+                <li id="menu-item-1-1" class="menu-item">
+                  <a title="Apport en nature" href="">Apport en nature</a>
+                </li>
+                <li id="menu-item-1-2" class="menu-item">
+                  <a title="Cession de parts" href="">Cession de parts</a>
+                </li>
+            </ul> 
+            <li id="menu-item-2" class="menu-item">
+              <a href=""droit des sociétés>"Droit de la santé"
+              </a> 
+            </li>
+      </div>
+      <div class ="container" id = "ApportNatureParamètres">
+        <h3>Paramètres Apport en Nature</h3>
+      <form action="Parametres" method="POST">
+        {% csrf_token %}
+        {{ ApportNatureFichiers_Form.as_p}}
+    <input type="submit" value="Submit" />
+    </form>
+  </div>
+  </body>
+</html>
