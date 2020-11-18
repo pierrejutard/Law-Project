@@ -1,4 +1,4 @@
 from django.apps import AppConfig
 
-class DoclegaleautoConfig(AppConfig):
-    name = 'Doclegaleauto'
+class LegalCodeConfig(AppConfig):
+    name = 'LegalCode'

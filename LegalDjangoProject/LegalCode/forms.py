@@ -1,7 +1,7 @@
 from django import forms
 from django.forms import ModelForm
 from django.forms import formset_factory
-from Doclegaleauto.models import Associe, SocieteBeneficiaire, ApportNatureFichiers, SocieteSource,CaractApport,CommissaireComptes
+from LegalCode.models import Associe, SocieteBeneficiaire, ApportNatureFichiers, SocieteSource,CaractApport,CommissaireComptes
 
 class DateInput(forms.DateInput):
     input_type = 'date'

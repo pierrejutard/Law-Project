@@ -1,18 +1,18 @@
 from django.http import HttpResponse
 from django.shortcuts import render
-from Doclegaleauto.forms import Associe_Form, SocieteBeneficiaire_Form, ApportNatureFichiers_Form, CommissaireComptes_Form, SocieteSource_Form,CaractApport_Form
+from LegalCode.forms import Associe_Form, SocieteBeneficiaire_Form, ApportNatureFichiers_Form, CommissaireComptes_Form, SocieteSource_Form,CaractApport_Form
 from django.forms import formset_factory
 from zipfile import ZipFile
 from django.shortcuts import redirect
-from Doclegaleauto.DocDico import Get_dico_ApportNature_modele
-from Doclegaleauto.String_operations import Text_Replacement
-from Doclegaleauto.Write_Word_Contract import Create_Word_Contract_File
-from Doclegaleauto.models import ApportNatureFichiers 
+from LegalCode.DocDico import Get_dico_ApportNature_modele
+from LegalCode.String_operations import Text_Replacement
+from LegalCode.Write_Word_Contract import Create_Word_Contract_File
+from LegalCode.models import ApportNatureFichiers 
 import io
 
 #Main Page view
 def MainPage_view(request):
-    return render(request, 'Doclegaleauto/MainPage.html',)
+    return render(request, 'LegalCode/MainPage.html',)
 
 #Apport Nature Parameters view
 def ApportNatureParameters_view(request):
@@ -25,7 +25,7 @@ def ApportNatureParameters_view(request):
         return redirect('Parametres/Formulaires/' + str(ANF_id))
     else:
         ApportNatureFichiersForm = ApportNatureFichiers_Form()
-    return render(request, 'Doclegaleauto/ApportNatureParameters.html',{'ApportNatureFichiers_Form':ApportNatureFichiersForm})
+    return render(request, 'LegalCode/ApportNatureParameters.html',{'ApportNatureFichiers_Form':ApportNatureFichiersForm})
 
 #Apport en nature forms view
 def ApportNatureFormulaires_view(request,ANF_id):
@@ -72,7 +72,7 @@ def ApportNatureFormulaires_view(request,ANF_id):
                     'SocieteSourceForm':SocieteSourceForm,
                     'CaractApportForm':CaractApportForm
                   }
-    return render(request, 'Doclegaleauto/ApportNatureFormulaires.html',context)
+    return render(request, 'LegalCode/ApportNatureFormulaires.html',context)
 
 def Get_Result_dico(request,File_name):
     Result_dico = {}
