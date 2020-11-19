@@ -7,7 +7,7 @@
 {"name": "Python: Django",
     "type": "python",
     "request": "launch",
-    "program": "C:/Users/user/Desktop/python/MySite/manage.py",
+    "program": "C:/Users/user/Desktop/python/LegalDjangoProject/manage.py",
     "console": "integratedTerminal",
     "args": [
         "runserver"

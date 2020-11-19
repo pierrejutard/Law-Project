@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('Doclegaleauto', '0001_initial'),
+        ('LegalCode', '0001_initial'),
     ]
 
     operations = [

@@ -1,11 +1,10 @@
 {% load static %}
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Apport Nature Paramètres</title>
-		<link rel="stylesheet" type="text/css" href= "{% static 'Doclegaleauto/style.css' %}" />
+    <title>Apport Nature</title>
+		<link rel="stylesheet" type="text/css" href= "{% static 'LegalCode/style.css' %}" />
   </head>
   	<body>
       <nav class= "navigation">
@@ -27,11 +26,25 @@
               </a> 
             </li>
       </div>
-      <div class ="container" id = "ApportNatureParamètres">
-        <h3>Paramètres Apport en Nature</h3>
-      <form action="Parametres" method="POST">
+      <div class ="container" id = "SocieteBeneficiaireForm">
+      <form action="" method="post">
         {% csrf_token %}
-        {{ ApportNatureFichiers_Form.as_p}}
+        <h3>Société Source</h3>
+          {{SocieteSourceForm.as_p}}
+        <h3>Société Bénéficiaire</h3>
+          {{SocieteBeneficiaireForm.as_p}}
+          {% for form in associe_formset %}
+            <h3>Associé {{forloop.counter}}</h3>
+            {{form.as_p}}
+          {% endfor %}
+          {% if ANF_obj.RapportduPresident or ANF_obj.DecisionAssocieApport or ANF_obj.DecisionAssocieDesignationCommissaire %}
+          <h3>Commissaire aux comptes</h3>
+          {{CommissaireComptesForm.as_p}}
+        {% endif %}
+        {% if ANF_obj.ContratApportNature or ANF_obj.RapportduPresident or ANF_obj.DecisionAssocieApport %}
+          <h3>Caractéristiques apportSociété Source</h3>
+          {{CaractApportForm.as_p}}
+        {% endif %}
     <input type="submit" value="Submit" />
     </form>
   </div>

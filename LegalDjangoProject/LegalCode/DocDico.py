@@ -3,7 +3,7 @@ def Get_dico_ApportNature_modele(File_name):
     Part_Cpt = 0
     Oth_Part_Cpt = 0
     InPart = False
-    Path = "C:/Users/user/Desktop/python/LegalDjangoProject/LegalCode/LawTemplateFiles/Template_"
+    Path = "C:/Users/user/Desktop/python/LegalDjangoProject/LegalCode/LegalTemplateFiles/Template_"
     with open(Path + File_name + '.txt', encoding='utf-8') as TextFile:
         for line in TextFile:
             if '[\n' in line or InPart == True:
